@@ -11,7 +11,7 @@
 	<groupId>com.luv2code.springboot.demo</groupId>
 	<artifactId>mycoolapp-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>mycoolapp-springboot</name>
 	<description>Demo project for Spring Boot</description>
 
